@@ -1,7 +1,7 @@
 <img align="center" width="1000" height="1000" alt="2005_12_01_thnksfrthmmrs" src="https://github.com/user-attachments/assets/e49a07e5-8ae8-464e-a301-dbb65df03b57"/>
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=tx72ulvo5y1w3percx73x3em5&redirect=true">
+  <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=tx72ulvo5y1w3percx73x3em5&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true">
   </a>
 </p>
