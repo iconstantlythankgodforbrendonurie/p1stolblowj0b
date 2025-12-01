@@ -34,7 +34,8 @@ ___
         - hi i'm sergei, i'm 18 nd i use he/him <br>
         - int with me on pony town pls !!<br>
         - feel free to cud me! ^__^ <br>
-        -bmf and add me on dscrd maybe :-) <br>
+        - bmf and add me on dscrd maybe :-)<br>
+        - sign my atabook! <3<br>
    </th>
   </tr>
 </table>
