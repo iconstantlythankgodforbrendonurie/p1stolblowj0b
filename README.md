@@ -24,7 +24,7 @@ ___
 
 ![b0317e29](https://github.com/user-attachments/assets/6959634f-d4b7-4266-a885-cbda1cb5335c)
 
-[open me!!!](https://crunk4evr.carrd.co)
+[open me!!!](https://crunk4evr.carrd.co) ☆ [sign me? ;-)](https://ihateyou.atabook.org)
 
 <table>
   <tr>
