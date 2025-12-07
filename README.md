@@ -9,7 +9,7 @@
 <br>
 <div align="center">
 
-![6969](https://hits.sh/github.com.svg?style=plastic&label=TROLLED!&color=c7c7c7&labelColor=282828)
+[![6969](https://hits.sh/github.com.svg?style=plastic&label=TROLLED!&color=c7c7c7&labelColor=282828)]
 
 <img width="482" height="20" alt="monstr" src="https://dividers.crd.co/assets/images/gallery04/8fa3f89c.gif?v=05d33f91">
 <img align="center" width="1000" height="1000" alt="paino_haha" src="https://dividers.crd.co/assets/images/gallery09/7c400157.gif?v=05d33f91"/>
